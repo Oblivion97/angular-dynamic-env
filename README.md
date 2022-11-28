@@ -1,6 +1,7 @@
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+used for the reference of the following article, https://medium.com/@Oblivion041/angular-14-build-once-deploy-any-server-74cca887b2ff
 
 ## Development server
 
